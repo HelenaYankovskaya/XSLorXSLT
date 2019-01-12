@@ -1,0 +1,24 @@
+<table border="1">
+
+<tr>
+
+<td>2px</td>
+<td>3px</td>
+
+</tr>
+
+<tr>
+
+<td>20px</td>
+<td>30px</td>
+
+</tr>
+
+<tr>
+
+<td>50px</td>
+<td>100px</td>
+
+</tr>
+
+</table>
